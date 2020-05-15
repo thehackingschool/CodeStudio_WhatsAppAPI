@@ -1,0 +1,14 @@
+{
+  "name": "whatsapp-api",
+  "version": "1.0.0",
+  "description": "Send Form Data to WhatsApp API",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "The Hacking School",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
